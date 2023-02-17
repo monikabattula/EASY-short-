@@ -1,1 +1,1 @@
-# EASY-short-
+# EASY-short(QR CODE GENERATION)
